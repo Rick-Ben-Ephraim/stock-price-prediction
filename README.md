@@ -1,19 +1,19 @@
-# 📈 Stock Price Prediction
+📈 Stock Price Prediction
 
-## 🚀 Project Overview
+ Project Overview
 This project predicts stock prices using Machine Learning.
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - Scikit-learn
 
-## 📊 Features
+Features
 - Data visualization
 - Price prediction using Linear Regression
 
 
 
-## 🔗 GitHub Repo
-(Add your link here)
+🔗 GitHub Repo
+
